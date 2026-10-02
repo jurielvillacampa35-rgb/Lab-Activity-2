@@ -1,6 +1,7 @@
 # Lab 4 - Encapsulation
 
 Name: Juriel David B. Villacampa
+
 Section: 2A
 
 ## Console Output
