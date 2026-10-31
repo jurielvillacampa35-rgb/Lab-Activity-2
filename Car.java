@@ -5,8 +5,25 @@ public class Car extends Vehicle {
     super(brand, model, year);
     this.doors = doors;
    }
-  
-   @Override 
+   
+   @Override
+public  void moveForward(){
+    System.out.println("A car moves forward");
+};
+@Override
+public  void moveBackwards(){
+    System.out.println("A car moves backward");
+};
+@Override
+public  void moveLeft(){
+    System.out.println("A car moves left");
+};
+@Override
+public  void moveRight(){
+    System.out.println("A car moves right");
+};
+
+ @Override 
     public void displayInfo() {
         super.displayInfo();
 

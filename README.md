@@ -1,4 +1,4 @@
-# Lab 1 Semi-Finals - Polymorphism
+# Lab 2 Semi-Finals - Abstraction
 
 Name: Juriel David B. Villacampa
 

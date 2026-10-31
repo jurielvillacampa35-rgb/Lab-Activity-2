@@ -6,6 +6,23 @@ public class Truck extends Vehicle {
         this.numberOfWheels = numberOfWheels;
     }
 
+    @Override
+    public  void moveForward(){
+         System.out.println("A truck moves forward");
+    };
+    @Override
+    public  void moveBackwards(){
+          System.out.println("A truck moves backward");
+   };
+    @Override
+    public  void moveLeft(){
+          System.out.println("A truck moves left");
+   };
+    @Override
+    public  void moveRight(){
+          System.out.println("A truck moves right");
+   };
+
 
     @Override
     public void displayInfo() {
