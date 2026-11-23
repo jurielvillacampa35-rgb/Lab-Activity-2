@@ -1,4 +1,4 @@
-# Lab 3 Semi-Finals - Interfaces
+# Lab Activity 4  - Packages
 
 Name: Juriel David B. Villacampa
 
